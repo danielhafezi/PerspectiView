@@ -1,6 +1,6 @@
-![Project Overview](projects/project_overview.gif)
-
 # PerspectiView
+
+![Project Overview](project_overview.gif)
 
 PerspectiView is a web application that transforms third-person narratives into multiple first-person perspectives, helping users understand how different characters experience the same events in stories. Using Google's Gemini 2.0 Flash model for analysis, the application automatically identifies characters, generates perspective-based retellings, and creates visual timelines showing emotional and perceptual variations across characters.
 
